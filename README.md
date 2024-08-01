@@ -3,7 +3,6 @@
 
 ### [Questions or need more info? Join my Discord Channel!](https://discord.gg/WzPthAmMbP)  
 ### [Ready to Buy? Click Here!](#where-to-buy---)  
-## <a name='What to do when you first get this keyboard  '>What to do when you first get this keyboard   </a>  
 ## Compare of the 4 Wireless keyboards:  
 |Keyboard Type |Dimension |Trackpad Backlight |Layout |
 |:---|:---|:---    |:---  |
