@@ -109,8 +109,8 @@ There are 4 LED controls on this keyboard:
 **1. Charging LED**: the read led on the left side of the keyboard indicates if the battery of the keyboard is fully charged. When the battery is being charged, the light shows like this. When the battery is fully charged, the led will go out.  
 **2. Side Keyboard backlight**: When you power the keyboard on, the backlight of the Left and Right side of the keyboard area will be turned on immediately. If the keyboard doesn't detect any key press for more than 30 seconds, the whole keyboard backlight will be turned off. Also the brightness of the backlight can be manuelly set. You can find the related action on layer 3. The brightness of the keyboard backlight is set at 40% by default. The brightness adjustment step  in percent is 10%.  
 **3. Middle Keyboard backlight**: The backlight of the middle area of the keyboard works as indicator of the current number of layer. At Layer 2, the backlight will start blinking. At Layer3, the backlight will start breathing. The two GIFs will show you the animation of the middle keyboard backlight.  
-**Layer2 effect**:
-**Layer3 effect**:
+**Layer2 effect**:![layer2effect](https://github.com/ZitaoTech/BBP9983-USB_BLE_Keyboard/blob/main/Pics/Layer2_effect.gif)  
+**Layer3 effect**:![layer3effect](https://github.com/ZitaoTech/BBP9983-USB_BLE_Keyboard/blob/main/Pics/Layer3_effect.gif)  
 **4. Trackpad backlight**: The backlight of the trackpad works as indicator of capslock. When capslock is on, the backlight will be turned on and also the trackpad will work as scroll wheel. You can now sweep your finger on the trackpad to quickly browse a webpage or file.  
 
 ## <a name='How to update the firmware  '> How to update the firmware   </a>
