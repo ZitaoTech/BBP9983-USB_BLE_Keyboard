@@ -1,6 +1,6 @@
 # BBP9983-USB_BLE_Keyboard
 <img src="https://github.com/ZitaoTech/BBP9983-USB_BLE_Keyboard/blob/main/Pics/P9983.jpg" width = "669" height = "500" alt="View1" align=center />  
-
+<img src="https://github.com/ZitaoTech/BBP9983-USB_BLE_Keyboard/blob/main/Pics/P9983_2.jpg" width = "661" height = "500" alt="View1" align=center />  
 ### [Questions or need more info? Join my Discord Channel!](https://discord.gg/WzPthAmMbP)  
 ### [Ready to Buy? Click Here!](#where-to-buy---)  
 ## Compare of the 4 Wireless keyboards:  
