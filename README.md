@@ -64,6 +64,9 @@ When we power the keyboard on, we are at Layer 1: the QWERTY layer. By pressing 
 
 ## <a name='Keymap  '>Keymap   </a>
 The following pictures show the default keymap of the keyboard  
+ <img src="https://github.com/ZitaoTech/BBP9983-USB_BLE_Keyboard/blob/main/Pics/Layer_1.png" width = "788" height = "861" alt="BLE VERSION CHECK" align=center />
+ <img src="https://github.com/ZitaoTech/BBP9983-USB_BLE_Keyboard/blob/main/Pics/Layer_2.png" width = "788" height = "861" alt="BLE VERSION CHECK" align=center />
+ <img src="https://github.com/ZitaoTech/BBP9983-USB_BLE_Keyboard/blob/main/Pics/Layer_3.png" width = "788" height = "861" alt="BLE VERSION CHECK" align=center />
 
 ## <a name='What to do when you first get this keyboard  '>What to do when you first get this keyboard   </a>  
 Here are a few steps to connect the keyboard with your device when you first get hands on this keyboard:  
