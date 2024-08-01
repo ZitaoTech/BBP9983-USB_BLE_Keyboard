@@ -1,5 +1,5 @@
 # BBP9983-USB_BLE_Keyboard
-An ultra portable Keyboard Mouse Combo using the original Blackberry P9983 keyboard
+![P9983](https://github.com/ZitaoTech/BBP9983-USB_BLE_Keyboard/blob/main/Pics/P9983.jpg)
 
 ## <a name='What to do when you first get this keyboard  '>What to do when you first get this keyboard   </a>  
 Here are a few steps to connect the keyboard with your device when you first get hands on this keyboard:  
