@@ -31,7 +31,7 @@ If you paired the device with the keyboard before, make sure that on the keyboar
 **(rarely on windows computer) On the Bluetooth setting page of the device the keyboard stays between connected and paired. What's wrong?**  
 Something went wrong in the windows system, try to restart the computer, if that not works, delete the pairing from both sides and make the pairing again.  
 # <a name='Some tipps for using this keyboard  '>Some tipps for using this keyboard  
-## <a name='iphone or IOS users  '>iphone or IOS users  
+### <a name='iphone or IOS users  '>iphone or IOS users  
 **If you need to use trackpad as mouse or scroll wheel function on iphone or ipad, there are some settings that you need to do**:  
 1. Go to Settings-> Accessibility-> Touch-> AssistiveTouch -> enable AssistiveTouch and you can use touchpad as mouse on iphone or ipad  
 2. Go to Settings-> General-> Keyboard-> Hardware Keyboard-> disable Cpas Lock Language Switch and you can use the trackpad as scroll wheel when capslock is on.
@@ -49,7 +49,7 @@ Go to Settings-> General ->Trackpad&Mouse and you can adjust the tracking speed,
 You may need to switch between englich and some other language keyboard in IOS,
 You need to hold ctrl and press space key to switch.  
 
-## <a name='Android users  '>Android users   </a>  
+### <a name='Android users  '>Android users   </a>  
 **How to switch between different keyboard languages**:
 First try shift, then try Alt+shift, if not works, try Ctrl+shift. If none works, pull down from the top of the screen and manuelly switch.  
 
