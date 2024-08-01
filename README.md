@@ -1,5 +1,6 @@
 # BBP9983-USB_BLE_Keyboard
 <img src="https://github.com/ZitaoTech/BBP9983-USB_BLE_Keyboard/blob/main/Pics/P9983.jpg" width = "669" height = "500" alt="View1" align=center />  
+## [Questions or need more info? Join my Discord Channel!](https://discord.gg/WzPthAmMbP)  
 ## <a name='What to do when you first get this keyboard  '>What to do when you first get this keyboard   </a>  
 Here are a few steps to connect the keyboard with your device when you first get hands on this keyboard:  
 1. Put the battery into the keyboard: The pictures shows you how to correctly put the battery into the keyboard.  
