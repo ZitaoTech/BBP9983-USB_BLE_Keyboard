@@ -1,7 +1,8 @@
 # BBP9983-USB_BLE_Keyboard
 <img src="https://github.com/ZitaoTech/BBP9983-USB_BLE_Keyboard/blob/main/Pics/P9983.jpg" width = "669" height = "500" alt="View1" align=center />  
 
-## [Questions or need more info? Join my Discord Channel!](https://discord.gg/WzPthAmMbP)  
+### [Questions or need more info? Join my Discord Channel!](https://discord.gg/WzPthAmMbP)  
+## [Ready to Buy? Click Here!](#where-to-buy---)  
 ## <a name='What to do when you first get this keyboard  '>What to do when you first get this keyboard   </a>  
 Here are a few steps to connect the keyboard with your device when you first get hands on this keyboard:  
 1. Put the battery into the keyboard: The pictures shows you how to correctly put the battery into the keyboard.  
@@ -114,3 +115,5 @@ Thickness of the keyboard: 13.3mm
 ## <a name='Weight  '>Weight   </a>  
 Without the battery the weight of the keyboard is 37.9 g.  
 With the battery the weight of the keyboard is 56.2 g.  
+## <a name='Where to buy  '>Where to buy   </a> 
+**Pay with US dollar**: [Tindie](https://www.tindie.com/products/zitaotech/blackberry-p9983-bleusb-keyboard/)  
