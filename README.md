@@ -1,7 +1,52 @@
 # BBP9983-USB_BLE_Keyboard
 An ultra portable Keyboard Mouse Combo using the original Blackberry P9983 keyboard
 
+## <a name='What to do when you first get this keyboard  '>What to do when you first get this keyboard   </a>  
+Here are a few steps to connect the keyboard with your device when you first get hands on this keyboard:  
+1. Put the battery into the keyboard: The pictures shows you how to correctly put the battery into the keyboard.  
+2. Power the keyboard on by sliding the red switch to the right side:  
+3. You can see the backlight under the keyboard area is turned on, press the aA key on the right under area to enter layer 3 and you can see the backlight under the pannel for the 4 big buttons starts to breath.
+4. Press the fitst big button on the left and double tap the trackpad: Now the keyboard has cleared the early pairing informations and is ready to pair with a new device. For the keyboard, this device is remembered as device 1.  
+5. Check the Bluetooth setting on your device and pair with the kaybord and now you can type with the keyboard.
 
+## <a name='Multidevice connect  '>Multidevice connect   </a>  
+The keyboard can be paired with up to 4 devices and can be switch between them very quickly.  
+Here are a few steps showing how you connect the keyboard with a new device when you have already paired with a first device:  
+1. Enter Layer 3 by pressing the aA key on the right under area and you can see the backlight under the pannel for the 4 big buttons starts to breath.
+2. Press the second or third or fourth big button key dependen on which number you want the keyboard to remember.
+3. Double tap the trackpad to clear the early pairing information to make sure it is now pairing with a new device.
+4. Operate on you device to pair with the keyboard
+5. If you want to switch to another device, enter layer 3 and press the big button that is match with your early operation, **don't double tap the trackpad this time.**
+
+**Out of range problem**:  
+Assume that the keyboard is connected with 2 devices：device 1 and device 2. If you turn on the keyboard, the keyboard will first connect with device1.  
+And now you put the device 1 out of the communication range of the keyboard, then the keyboard will look for the device that is already paired, that would be the device 2 and stay connected with it.  
+If you put device 1 back into the communication range, the keyboard will still stay connected with device 2, if you want to type with device 1, you need reboot the keyboard or enter layer 3 and select BT device 1.  
+
+## <a name='How to delete the pairing  '>How to delete the pairing   </a>  
+If you don't want the keyboard to connect with some device that you paired before, here are a few steps that you should do to delete the pairing:  
+1. On the keyboard side: switch to the device that you want to delete by entering layer 3 and press the right big button.
+2. Go to the Bluetooth setting page of the device and delete the Bluetooth pairing with the keyboard.
+3. Now on the keyboard side: Enter Layer 3 and double tap the trackpad to delete the pairing information that is stored in the keyboard.  
+**In brief, if you want to delete the pairing, make sure to operate on both sides that the pairing information is deleted.**
+
+## <a name='USB&BLE Output select  '>USB&BLE Output select   </a>
+This keyboard supportes both USB and BLE output, here are some basic logics of the output select:  
+
+By default, output is sent to BLE when both USB and BLE are connected.  
+
+If the keyboard wasn't connected to any device or is out of the communication distance with a paired device, the output would be USB.  
+
+Once you toggle the output between USB and BLE by entering layer 3 and hold space key for more than a half second. The keyboard will remember this if you don't make any change for more than 1 seconds.
+
+## <a name='Backlight/LED control  '> Backlight/LED control   </a>
+There are 4 LED controls on this keyboard:  
+**1. Charging LED**: the read led on the left side of the keyboard indicates if the battery of the keyboard is fully charged. When the battery is being charged, the light shows like this. When the battery is fully charged, the led will go out.  
+**2. Side Keyboard backlight**: When you power the keyboard on, the backlight of the Left and Right side of the keyboard area will be turned on immediately. If the keyboard doesn't detect any key press for more than 30 seconds, the whole keyboard backlight will be turned off. Also the brightness of the backlight can be manuelly set. You can find the related action on layer 3. The brightness of the keyboard backlight is set at 40% by default. The brightness adjustment step  in percent is 10%.  
+**3. Middle Keyboard backlight**: The backlight of the middle area of the keyboard works as indicator of the current number of layer. At Layer 2, the backlight will start blinking. At Layer3, the backlight will start breathing. The two GIFs will show you the animation of the middle keyboard backlight.  
+**Layer2 effect**:
+**Layer3 effect**:
+**4. Trackpad backlight**: The backlight of the trackpad works as indicator of capslock. When capslock is on, the backlight will be turned on and also the trackpad will work as scroll wheel. You can now sweep your finger on the trackpad to quickly browse a webpage or file.  
 
 ## <a name='How to update the firmware  '> How to update the firmware   </a>
 This keyboard uses the bootloader from [nice!nano](https://nicekeyboards.com/nice-nano). Here are the steps that you need to do to update the firmware:  
